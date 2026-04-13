@@ -1,6 +1,6 @@
 """
-Name: Lakshay
-Roll No: 2301010306
+Name: Subham SHarma
+Roll No: 2301010292
 Course: Image Processing & Computer Vision
 Unit: Mini Project
 Assignment Title: Smart Document Scanner & Quality Analysis System
